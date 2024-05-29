@@ -50,4 +50,6 @@ Accuracy Comparison:
 using the GNN model can provide qualitative insights into how the model processes
 and understands image data.
 
-![App Screenshot](kjj)
+![App Screenshot](https://github.com/rutujajanbandhu/Handwritten-Digit-Recognition/blob/main/Screenshots/Selected_Randomly.jpg)
+
+![App Screenshot](https://github.com/rutujajanbandhu/Handwritten-Digit-Recognition/blob/main/Screenshots/Predicted_label.jpg)
