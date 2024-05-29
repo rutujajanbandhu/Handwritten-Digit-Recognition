@@ -9,7 +9,7 @@ The MNIST dataset is a widely used benchmark in the field of machine learning, p
 image classification tasks. It consists of 28x28 grayscale images of handwritten digits (0-9) collected
 from various sources. 
 * The dataset is divided into training and test sets, with 60,000 images for training and 10,000 images for testing.
-
+![App Screenshot](kjj)
 
 For the handwritten digit recognition task, I've implemented several traditional
 and deep learning approaches and compared their performances. Here's an
@@ -23,6 +23,7 @@ overview of my solution strategy and the comparisons made:
 
 * Evaluated the models based on their training and test losses (e g., mean squared error, categorical cross-entropy) to assess their convergence and generalization capabilities.
 * Assessed model accuracies on both training and test sets to measure their performance in correctly classifying handwritten digits.
+![App Screenshot](kjj)
 
 ## Deep Learning Architectures:
 
@@ -34,8 +35,10 @@ overview of my solution strategy and the comparisons made:
 
 * Evaluated and compared the performances of LeNet-5, ResNet, and DenseNet based on their training and test losses to analyze their convergence rates and generalization capabilities.
 * Assessed the accuracies of these models on both training and test datasets to determine their effectiveness in classifying handwritten digits accurately.
-  
+![App Screenshot](kjj)
+
 ## GNN Visualization
 * Connectivity Visualization: Visualizing the connectivity of pixels forming a digit
 using the GNN model can provide qualitative insights into how the model processes
 and understands image data.
+![App Screenshot](kjj)
