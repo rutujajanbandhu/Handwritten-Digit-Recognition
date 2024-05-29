@@ -39,7 +39,6 @@ Accuracy Comparison:
 * Evaluated and compared the performances of LeNet-5, ResNet, and DenseNet based on their training and test losses to analyze their convergence rates and generalization capabilities.
 * Assessed the accuracies of these models on both training and test datasets to determine their effectiveness in classifying handwritten digits accurately.
 
-Accuracy Comparison:
 ![App Screenshot](https://github.com/rutujajanbandhu/Handwritten-Digit-Recognition/blob/main/Screenshots/Training_accuracy.jpg)
 
 ![App Screenshot](https://github.com/rutujajanbandhu/Handwritten-Digit-Recognition/blob/main/Screenshots/Testing_accuracy.jpg)
