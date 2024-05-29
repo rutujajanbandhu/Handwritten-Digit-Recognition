@@ -24,7 +24,8 @@ overview of my solution strategy and the comparisons made:
 
 * Evaluated the models based on their training and test losses (e g., mean squared error, categorical cross-entropy) to assess their convergence and generalization capabilities.
 * Assessed model accuracies on both training and test sets to measure their performance in correctly classifying handwritten digits.
-  
+
+Accuracy Comparison:
 ![App Screenshot](https://github.com/rutujajanbandhu/Handwritten-Digit-Recognition/blob/main/Screenshots/Traditional_Approach_Comparision.jpg)
 
 ## Deep Learning Architectures:
@@ -37,10 +38,16 @@ overview of my solution strategy and the comparisons made:
 
 * Evaluated and compared the performances of LeNet-5, ResNet, and DenseNet based on their training and test losses to analyze their convergence rates and generalization capabilities.
 * Assessed the accuracies of these models on both training and test datasets to determine their effectiveness in classifying handwritten digits accurately.
-![App Screenshot](kjj)
+
+Accuracy Comparison:
+![App Screenshot](https://github.com/rutujajanbandhu/Handwritten-Digit-Recognition/blob/main/Screenshots/Training_accuracy.jpg)
+
+![App Screenshot](https://github.com/rutujajanbandhu/Handwritten-Digit-Recognition/blob/main/Screenshots/Testing_accuracy.jpg)
+
 
 ## GNN Visualization
 * Connectivity Visualization: Visualizing the connectivity of pixels forming a digit
 using the GNN model can provide qualitative insights into how the model processes
 and understands image data.
+
 ![App Screenshot](kjj)
