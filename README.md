@@ -10,3 +10,7 @@ image classification tasks. It consists of 28x28 grayscale images of handwritten
 from various sources. 
 * The dataset is divided into training and test sets, with 60,000 images for training and 10,000 images for testing.
 
+# GNN Visualization
+* Connectivity Visualization: Visualizing the connectivity of pixels forming a digit
+using the GNN model can provide qualitative insights into how the model processes
+and understands image data.
